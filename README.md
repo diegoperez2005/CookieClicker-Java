@@ -19,8 +19,8 @@ The assignment required the following features:
 - Power-ups **automatically trigger** when thresholds are met (no buttons required).
 - The game runs **endlessly** and updates the display in real time.
 
-Students were also asked to log how they used AI tools to assist their work and include their prompts in code comments.
-
+**Game Image:**
+<img src="https://github.com/diegoperez2005/CookieClicker-Java/blob/main/CookieClicker%20Picutre.png?raw=true" height="375em" align="center" alt="Cookie" title="Cookie Clicker"/>
 ---
 
 ## 🧠 Key Concepts Practiced
