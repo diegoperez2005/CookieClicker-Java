@@ -1,0 +1,16 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore build output folder
+bin/
+
+# Ignore Eclipse-specific project files
+.project
+.classpath
+.settings/
+
+# macOS system file
+.DS_Store
+
+# Windows system file
+Thumbs.db
